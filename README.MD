@@ -23,7 +23,9 @@
 </p>
 
 <div align="center">
-    <audio src="output/synthesized_audio.MP3" controls title="Podcast editado"></audio>
+    <a href="https://github.com/valdir-alves3000/prompts-for-podcast-generate-by-ia/blob/main/output/synthesized_audio.MP3">
+        <img src="./assets/preview_audio.png"  width="300" alt="Áudio Sintetizado">
+</a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
